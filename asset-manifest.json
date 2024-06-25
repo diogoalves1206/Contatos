@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Contatos/static/css/main.db62923b.css",
-    "main.js": "/Contatos/static/js/main.87ae8873.js",
+    "main.js": "/Contatos/static/js/main.d02227df.js",
     "index.html": "/Contatos/index.html",
     "main.db62923b.css.map": "/Contatos/static/css/main.db62923b.css.map",
-    "main.87ae8873.js.map": "/Contatos/static/js/main.87ae8873.js.map"
+    "main.d02227df.js.map": "/Contatos/static/js/main.d02227df.js.map"
   },
   "entrypoints": [
     "static/css/main.db62923b.css",
-    "static/js/main.87ae8873.js"
+    "static/js/main.d02227df.js"
   ]
 }
